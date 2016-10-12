@@ -1,0 +1,1 @@
+void printgreeting(char* name);
